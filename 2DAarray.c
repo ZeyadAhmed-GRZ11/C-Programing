@@ -22,7 +22,7 @@ int main() {
         }
         printf("\n");
      }
-
+     
      printf("Enter the element to search:\n");
      scanf("%d",&search);
 
